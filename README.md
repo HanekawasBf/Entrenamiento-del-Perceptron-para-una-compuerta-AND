@@ -37,7 +37,7 @@ perceptron/
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.13.9
 - Las librerías `streamlit` y `fpdf2`
 
 ## Instalación y ejecución
