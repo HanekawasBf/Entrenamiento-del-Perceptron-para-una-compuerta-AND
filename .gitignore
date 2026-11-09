@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Streamlit (guarda configuracion y secretos locales)
+.streamlit/secrets.toml
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
